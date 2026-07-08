@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Muhammad Awais Banner">
+  <img src="header_no_linkedin_button.svg" width="100%" alt="Muhammad Awais Banner">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-awais-b35a63338" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-awais-b35a63338">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Awais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
