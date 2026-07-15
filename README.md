@@ -79,7 +79,7 @@ Beyond coding, I've served as a **Class Representative (CR)** for a year[cite: 1
 
 
 ### 🤝 Let's Connect!
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/muhammad-awais) 
+- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/muhammad-awais-b35a63338) 
 - 📧 Reach out via Email: `awaisarain12h@gmail.com`
 
 *“Data is the new science. Relation is the new equations.”*
