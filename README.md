@@ -11,8 +11,6 @@
 
 I am a passionate **Data Science Student** in my 6th semester at the **Islamia University of Bahawalpur (IUB)**[cite: 1]. I love turning raw data into smart, actionable insights and building practical machine learning solutions. 
 
-Beyond coding, I've served as a **Class Representative (CR)** for a year[cite: 1], which helped me build strong communication, team coordination, and leadership skills[cite: 1].
-
 
 ### 🚀 What I Do
 - 📊 **Data Prep & Analysis:** Building pipelines to clean and automate data workflows.
